@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40736742086",
+    "project_id": "krushi-a55a6",
+    "storage_bucket": "krushi-a55a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40736742086:android:c1a49f5400e2b9c3af15c7",
+        "android_client_info": {
+          "package_name": "com.example.crop_recommendation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzT6-lAMCRRsMdwbxxb1kEMt-gDxi-YHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
